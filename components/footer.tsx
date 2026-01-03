@@ -12,10 +12,7 @@ export function Footer() {
               </span>
             </div>
             <p className="hover:text-red-400 transition-colors duration-300 text-white/80d-400 transition-colors duration-300 text-white/80d:grid-cols-4 gap-3d:grid-cols-4 gap-3 text-sm tracking-normal leading-4">
-              ©{new Date().getFullYear()} BrixSoftware. 
-            </p>
-            <p className="hover:text-red-400 transition-colors duration-300 text-white/80d-400 transition-colors duration-300 text-white/80d:grid-cols-4 gap-3d:grid-cols-4 gap-3 text-sm tracking-normal leading-4">
-              ©{new Date().getFullYear()} Hugo Lucero. Todos los derechos reservados.
+              ©{new Date().getFullYear()} BrixSoftware. Todos los derechos reservados.
             </p>
           </div>
 
